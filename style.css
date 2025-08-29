@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+button {
+  margin: 5px 0;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+#countdownList {
+  list-style-type: decimal;
+  color: #27ae60;
+}
